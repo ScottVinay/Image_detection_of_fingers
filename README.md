@@ -5,8 +5,8 @@ In this work, we train a neural network on images that I recorded of my hand, to
 `CCTV_cloud.ipynb`: Main Jupyter notebook, with brief walkthrough of code.
 `CCTV_gathering_data.ipynb`: Supplementary notebook, for collecting images from a webcam.
 
-![Finger detection](Image_detection_of_fingers/graphs_outputs/ident.png)
+![Finger detection](/graphs_outputs/ident.png)
 
 <br>
 
-![Localisation](Image_detection_of_fingers/graphs_outputs/local.png)
+![Localisation](/graphs_outputs/local.png)
